@@ -25,7 +25,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 - Functional Requirements: Describe what the system should do, examples include User authentication, property search, booking system, user registration.
 - Non-functional Requirements: Describe how the system should perform, example Performance, security, scalability, usability, reliability.
 
-### Importance in the software development lifecycle (SDLC).
+## Why is Requirement Analysis Important?”
 - Clarity and Understanding: It helps in understanding what the stakeholders expect from the software, reducing ambiguity.
 - Scope Definition: Clearly defines the scope of the project, which helps in preventing scope creep.
 - Basis for Design and Development: Provides a solid foundation for designing and developing the system.
