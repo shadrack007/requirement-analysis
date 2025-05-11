@@ -24,7 +24,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
 ## Types of Requirements.
 ### Functional Requirements.
 Describe what the system should.
-Detailed analysis on functional requirements baaed on this articles give us the following functional requirements;
+Detailed analysis on functional requirements baaed on this [articles](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7) give us the following functional requirements;
 
 #### Hotel Management Service
 - Hotel managers can:
@@ -64,6 +64,7 @@ Detailed analysis on functional requirements baaed on this articles give us the 
 ### Non-functional Requirements.
 Describe how the system should perform.
 
+Detailed analysis on functional requirements baaed on this [articles](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7) give us the following non functional requirements;
 #### Scalability
 - Handle high user traffic with microservice architecture.
 - Use distributed systems (Kafka, Cassandra, Redis) for scaling.
