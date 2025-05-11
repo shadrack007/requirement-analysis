@@ -104,7 +104,7 @@ Use case diagrams show how different users (actors) interact with the system to 
 - Help in identifying and organizing system requirements.
 - Facilitate communication among stakeholders and development team.
 ### Use case diagram for the booking system
-![Booking System use case](https://drive.google.com/file/d/11zvqcHJ2Tj3H3Y7_QrHGOPP5QA6Rg9EB/view?usp=sharing)
+![Booking System use case](alx-booking-uc.png)
 
 
 
