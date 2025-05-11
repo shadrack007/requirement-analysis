@@ -96,6 +96,15 @@ Detailed analysis on functional requirements baaed on this [articles](https://me
 - Basis for Design and Development: Provides a solid foundation for designing and developing the system.
 - Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 - Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
+---
+## Use Case Diagrams.
+Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+###Benefits of Use Case Diagrams:
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
+- Facilitate communication among stakeholders and development team.
+### Use case diagram for the booking system
+![Alt Text](https://drive.google.com/file/d/11zvqcHJ2Tj3H3Y7_QrHGOPP5QA6Rg9EB/view?usp=sharing)
 
 
 
