@@ -105,6 +105,34 @@ Use case diagrams show how different users (actors) interact with the system to 
 - Facilitate communication among stakeholders and development team.
 ### Use case diagram for the booking system
 ![Booking System use case](alx-booking-uc.png)
+---
+## Acceptance Criteria.
+### Importance of Acceptance Criteria in Requirement Analysis.
+- Ensure all parties have a clear understanding of feature requirements.
+- Provide a basis for testing and validation.
+- Help in maintaining quality and meeting user expectations.
+  
+### Acceptance Criteria for Checkout Feature
+The following criteria define the expected behavior of the Checkout feature in the booking system.
+
+1. Booking Confirmation Flow
+   - Users should be able to select available check-in and check-out dates, provide guest details, and proceed to payment without errors.
+   - The system must validate room availability in real-time before proceeding to payment.
+
+2. Successful Payment Processing
+   - Upon clicking “Checkout,” users should be redirected to a secure third-party payment gateway.
+   - Once payment is successful, the system should confirm the booking and display a confirmation message.
+
+3. Notification Requirement (Non-Functional)
+   - Users must receive a booking confirmation email or in-app notification **within 2 minutes** of successful payment.
+
+4. Error Handling
+   - If payment fails, users should receive a clear error message and the option to retry or change the payment method.
+   - Failed payments must not create a confirmed booking entry in the system.
+
+5. System Performance (Non-Functional)
+   - The entire checkout process, from clicking “Checkout” to receiving confirmation, should not exceed **5 seconds** under normal load conditions.
+
 
 
 
