@@ -4,7 +4,7 @@ This repository is dedicated to exploring the critical phase of **Requirement An
 ## What is Requirement Analysis?
 Requirement Analysis is a critical phase in the software development lifecycle (SDLC) where the project team gathers, analyzes, and defines the requirements of the software product to be developed. This process ensures that all stakeholders have a clear and mutual understanding of what the system should do and how it should perform.
 
-### Key Activities in Requirement Analysis
+## Key Activities in Requirement Analysis.
 - Requirement Gathering
   - Engage with stakeholders to collect initial requirements.
   - Use various techniques like interviews, surveys, and workshops
